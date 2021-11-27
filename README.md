@@ -10,3 +10,10 @@
 
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+
+
+![June_Temp](/Resources/June_temp_analysis.PNG)
+
+![June_Temp](/Resources/June_temp_analysis.PNG)
+
