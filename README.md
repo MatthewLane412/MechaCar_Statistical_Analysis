@@ -13,7 +13,7 @@
 
 
 
-![June_Temp](/Resources/June_temp_analysis.PNG)
+![June_Temp](/MechaCar_Statistical_Analysis/Images/Deliverable_1_Linear_regression.PNG)
 
 ![June_Temp](/Resources/June_temp_analysis.PNG)
 
