@@ -2,9 +2,12 @@
 
 ## Linear Regression to Predict MPG
 
-
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Vehicle Weight
+- Spoiler Angle
+- AWD
 
+![June_Temp](/Images/Deliverable_1_Linear_regression.PNG)
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
 
@@ -13,7 +16,7 @@
 
 
 
-![June_Temp](/Images/Deliverable_1_Linear_regression.PNG)
+
 
 ![June_Temp](/Images/Deliverable_1_Summary_Linear_Regression.PNG)
 
