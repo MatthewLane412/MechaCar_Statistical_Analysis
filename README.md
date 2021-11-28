@@ -27,3 +27,11 @@
 
 ![Lot_Summary](/Images/Deliverable_2_lot_summary.PNG)
 
+## T-Tests on Suspension Coils
+
+#####summarization of my interpretation and findings for the t-test results
+
+![Lot_Summary](/Images/Deliverable_3_t.test_question_1.PNG)
+
+![Lot_Summary](/Images/Deliverable_3_t.test_question_2.PNG)
+
