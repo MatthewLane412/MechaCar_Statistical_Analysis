@@ -10,7 +10,7 @@
 ![June_Temp](/Images/Deliverable_1_Linear_regression.PNG)
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
-
+- The P value of the line has a slope because it is less than .05
 
 #### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
