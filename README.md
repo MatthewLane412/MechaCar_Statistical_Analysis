@@ -3,9 +3,8 @@
 ## Linear Regression to Predict MPG
 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Vehicle Weight
-- Spoiler Angle
-- AWD
+- Vehicle Length
+- Ground Clearance
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
 - The P value of the line has a slope because it is less than .05
