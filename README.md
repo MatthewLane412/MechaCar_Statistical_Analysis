@@ -29,7 +29,7 @@
 
 ## T-Tests on Suspension Coils
 
-#####summarization of my interpretation and findings for the t-test results
+##### Summarization of my interpretation and findings for the t-test results
 
 ![Lot_Summary](/Images/Deliverable_3_t.test_question_1.PNG)
 
