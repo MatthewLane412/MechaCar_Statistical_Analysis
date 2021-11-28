@@ -13,10 +13,7 @@
 - The P value of the line has a slope because it is less than .05
 
 #### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
-
-
-
+- The multiple R squared predicts MPG 71% of the time. This is not enough to assume it predicts prototypes effectively. 
 
 ![June_Temp](/Images/Deliverable_1_Summary_Linear_Regression.PNG)
 
