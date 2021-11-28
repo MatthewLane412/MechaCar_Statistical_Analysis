@@ -29,10 +29,10 @@
 ## T-Tests on Suspension Coils
 
 #### Summarization of my interpretation and findings for the t-test results
-- Whole sample size has a p-value above .06, resulting in an inability to reject the null hypothisis
-- Lot 1 - The null hypthisis has a p-value above .06, resulting in an inability to reject the null hypothisis
-- Lot 2 - The null hypthisis has a p-value above .06, resulting in an inability to reject the null hypothisis
-- Lot 3 - The null hypothisis is rejected with a p-value under .05
+- Whole sample size has a p-value above .06, resulting in an inability to reject the null hypothesis
+- Lot 1 - The null hypothesis has a p-value above .06, resulting in an inability to reject the null hypothesis
+- Lot 2 - The null hypothesis has a p-value above .06, resulting in an inability to reject the null hypothesis
+- Lot 3 - The null hypothesis is rejected with a p-value under .05
 
 ![Lot_Summary](/Images/Deliverable_3_t.test_question_1.PNG)
 
@@ -41,14 +41,28 @@
 
 ## Study Design: MechaCar vs Competition
 
-##### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+##### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horsepower, maintenance cost, or safety rating.
 
 
 ### What metric or metrics are you going to test?
-### What is the null hypothesis or alternative hypothesis?
-### What statistical test would you use to test the hypothesis? And why?
-### What data is needed to run the statistical test?
+ - City or highway fuel efficiency
+ - Cost
+ - Cylinders
+ - Hybrids
 
+### What is the null hypothesis or alternative hypothesis?
+ - The Mechacar has better fuel efficiency and cost less
+ - The Mechacar has better fuel efficiency with the same amount of cylinders
+ - The Mechacar hybrids are more efficiency.
+
+### What statistical test would you use to test the hypothesis? And why?
+- I would use a 2 sample t-test to compare the competition
+
+### What data is needed to run the statistical test?
+ - Total cost of the base model cars
+ - Fuel efficiency
+ - Total cylinders per car
+ - Type of car (e.g. Hybrid, Non-Hybrid)
 
 
 
