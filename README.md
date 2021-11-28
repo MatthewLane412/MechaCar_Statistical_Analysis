@@ -7,8 +7,6 @@
 - Spoiler Angle
 - AWD
 
-![June_Temp](/Images/Deliverable_1_Linear_regression.PNG)
-
 #### Is the slope of the linear model considered to be zero? Why or why not?
 - The P value of the line has a slope because it is less than .05
 
@@ -16,7 +14,7 @@
 - The multiple R squared predicts MPG 71% of the time. This is not enough to assume it predicts prototypes effectively. 
 
 ![June_Temp](/Images/Deliverable_1_Summary_Linear_Regression.PNG)
-
+![June_Temp](/Images/Deliverable_1_Linear_regression.PNG)
 
 ## Summary Statistics on Suspension Coils
 
