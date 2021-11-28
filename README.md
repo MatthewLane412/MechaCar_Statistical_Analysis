@@ -28,7 +28,11 @@
 
 ## T-Tests on Suspension Coils
 
-##### Summarization of my interpretation and findings for the t-test results
+#### Summarization of my interpretation and findings for the t-test results
+- Whole sample size has a p-value above .06, resulting in an inability to reject the null hypothisis
+- Lot 1 - The null hypthisis has a p-value above .06, resulting in an inability to reject the null hypothisis
+- Lot 2 - The null hypthisis has a p-value above .06, resulting in an inability to reject the null hypothisis
+- Lot 3 - The null hypothisis is rejected with a p-value under .05
 
 ![Lot_Summary](/Images/Deliverable_3_t.test_question_1.PNG)
 
